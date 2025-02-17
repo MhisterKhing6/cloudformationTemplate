@@ -1,0 +1,5 @@
+template-file-path: ./cloudformation.yaml
+parameters:
+  S3UserEmail: kingsleybotchwayedu11@gmail.com
+  EC2UserEmail: kingsleybotchwayedu11@gmail.com
+tags: {}
